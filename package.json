@@ -1,0 +1,11 @@
+{
+  "name": "awesome-cli",
+  "version": "1.0.0",
+  "bin": {
+    "awesome-cli": "./bin/script.js"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/zentan66/awesome-cli.git",
+  "author": "zentan66 <1041944816@qq.com>",
+  "license": "MIT"
+}
